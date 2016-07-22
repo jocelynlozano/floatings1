@@ -1,0 +1,23 @@
+.padre{
+	border: solid 1px #CCCCCC;
+	width: 1000px
+	height:1000px;
+}
+.amarillo{
+	background-color: #FFFF00;
+	width: 200px;
+	height: 150px;
+	float: left;
+}
+.celeste{
+	background-color: #3A81BA;
+	width: 200px;
+	height: 150px;
+	float: left;
+}
+.rosado{
+	background-color: #ED2251;
+	width: 200px;
+	height: 150px;
+	float: left;
+}
